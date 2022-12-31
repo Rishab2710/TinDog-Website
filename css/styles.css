@@ -165,4 +165,8 @@ h3 {
     width: auto;
     transform: rotate(0);
   }
+  
+  #footer {
+     padding: 7% 35%;
+  }
 }
